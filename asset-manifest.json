@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactawebsite/static/css/main.9d32bd42.css",
+    "main.js": "/reactawebsite/static/js/main.33fd6b8e.js",
+    "static/media/hero1.jpg": "/reactawebsite/static/media/hero1.9b7bcbba3663d63d9e7c.jpg",
+    "index.html": "/reactawebsite/index.html",
+    "main.9d32bd42.css.map": "/reactawebsite/static/css/main.9d32bd42.css.map",
+    "main.33fd6b8e.js.map": "/reactawebsite/static/js/main.33fd6b8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d32bd42.css",
+    "static/js/main.33fd6b8e.js"
+  ]
+}
